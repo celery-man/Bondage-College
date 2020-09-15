@@ -157,7 +157,8 @@ var BackgroundsList = [
     { Name: "SnowyStreetDay2", Tag: [BackgroundsTagOutdoor] },
     { Name: "SnowyStreetNight2", Tag: [BackgroundsTagOutdoor] },
     { Name: "SnowyTown1", Tag: [BackgroundsTagOutdoor] },
-    { Name: "SnowyTown2", Tag: [BackgroundsTagOutdoor] },
+    { Name: "SnowyTown2", Tag: [BackgroundsTagOutdoor] }
+	{ Name: "JailCell", Tag: [BackgroundsTagNone] },
 ];
 
 /**
